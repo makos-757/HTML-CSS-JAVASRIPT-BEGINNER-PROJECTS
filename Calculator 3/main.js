@@ -1,3 +1,10 @@
+/**
+ * Calculator 3 Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ * Educational Project
+ */
+
 const display = document.querySelector(".display");
 const buttons = document.querySelectorAll("button");
 const specialChars = ["%", "*", "/", "-", "+", "="];

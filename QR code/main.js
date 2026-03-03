@@ -1,3 +1,9 @@
+/**
+ * QR Code Scanner Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 // main.js file
 
 function domReady(fn) {

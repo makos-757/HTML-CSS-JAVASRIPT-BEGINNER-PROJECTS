@@ -1,3 +1,10 @@
+/**
+ * Weather Explorer Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ * Uses OpenWeatherMap API for real-time weather data
+ */
+
 async function getWeather() {
     const city = document.getElementById('city').value;
     const errorMsg = document.getElementById('error-message');

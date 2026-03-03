@@ -1,3 +1,9 @@
+/**
+ * Interactive Quiz Application - Football Quiz
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 const quizData = [
     { question: "How many players does each team have on the pitch in a standard football match?", options: ["9", "10", "11", "12"], answer: "11" },
     { question: "How long is a standard football match (excluding stoppage time and extra time)?", options: ["60 minutes", "80 minutes", "90 minutes", "100 minutes"], answer: "90 minutes" },

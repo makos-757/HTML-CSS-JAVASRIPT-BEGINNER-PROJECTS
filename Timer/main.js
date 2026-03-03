@@ -1,3 +1,9 @@
+/**
+ * Stopwatch/Timer Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 const timerEl = document.getElementById("timer");
 const startButtonEl = document.getElementById("start");
 const stopButtonEl = document.getElementById("stop");

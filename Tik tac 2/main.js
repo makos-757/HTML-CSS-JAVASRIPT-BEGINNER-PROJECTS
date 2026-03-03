@@ -1,3 +1,9 @@
+/**
+ * Tic Tac Toe Game with AI
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 // Game state variables
 let board = ['', '', '', '', '', '', '', '', '']; // 3x3 game board
 let currentPlayer = 'X'; // Current player ('X' or 'O')

@@ -1,4 +1,8 @@
-// Copyright @makostech
+/**
+ * Calendar Widget Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
 
 // Initialize date variables
 let date = new Date();

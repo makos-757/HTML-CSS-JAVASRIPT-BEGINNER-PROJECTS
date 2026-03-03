@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- Snake Game by Makos Tech | TikTok: https://www.tiktok.com/@makostech -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game | Makos Tech</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="game-details">
+            <span class="brand">🐍 Makos Tech</span>
+            <div>
+                <span class="score">Score: 0</span>
+                <span class="highscore" style="margin-left: 15px;">High Score: 0</span>
+            </div>
+        </div>
+        <div class="play-board"></div>
+        <div class="pause-hint">Press SPACE to Pause</div>
+    </div>
+    
+    <!-- Game Over Modal -->
+    <div class="game-over-modal" id="gameOverModal">
+        <div class="game-over-content">
+            <h2>Game Over!</h2>
+            <p>Your Score: <span id="finalScore">0</span></p>
+            <button onclick="restartGame()">Play Again</button>
+        </div>
+    </div>
+    
+    <!-- Difficulty Selection Modal -->
+    <div class="difficulty-modal" id="difficultyModal">
+        <div class="difficulty-content">
+            <div class="brand-title">🐍 Makos Tech</div>
+            <div class="brand-tagline">Premium Gaming Experience</div>
+            <h2>Select Difficulty</h2>
+            <p class="subtitle">Choose your challenge level</p>
+            <button class="easy" onclick="startGame('easy')">Easy</button>
+            <button class="medium" onclick="startGame('medium')">Medium</button>
+            <button class="hard" onclick="startGame('hard')">Hard</button>
+        </div>
+    </div>
+    
+    <!-- Pause Modal -->
+    <div class="pause-modal" id="pauseModal">
+        <div class="pause-content">
+            <h2>⏸️ Paused</h2>
+            <button onclick="resumeGame()">Resume</button>
+            <button onclick="quitToMenu()">Quit</button>
+        </div>
+    </div>
+</body>
+</html>

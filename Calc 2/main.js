@@ -1,3 +1,9 @@
+/**
+ * Basic Calculator Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 let currentInput = '';
 let currentOperation = '';
 let previousInput = '';

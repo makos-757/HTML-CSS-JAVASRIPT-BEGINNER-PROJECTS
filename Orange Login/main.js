@@ -1,3 +1,9 @@
+/**
+ * Orange Themed Sign Up Form
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 document.getElementById('signupForm').addEventListener('submit', function(e) {
   e.preventDefault();
   

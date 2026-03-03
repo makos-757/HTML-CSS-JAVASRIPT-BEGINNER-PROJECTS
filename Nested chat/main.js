@@ -1,3 +1,9 @@
+/**
+ * Nested Chat/Fees Management Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ */
+
 // Fees-only interactions with persistence
 (function () {
   const $ = (id) => document.getElementById(id);

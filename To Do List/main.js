@@ -1,5 +1,9 @@
-// To Do List App - Makos Tech
-// Yellow & Black Theme
+/**
+ * To Do List Application
+ * Created by: Makos Tech
+ * Follow us on TikTok: https://www.tiktok.com/@makostech
+ * Yellow & Black Theme - LocalStorage Integration
+ */
 
 const formEl = document.querySelector(".form");
 const inputEl = document.querySelector(".input");
