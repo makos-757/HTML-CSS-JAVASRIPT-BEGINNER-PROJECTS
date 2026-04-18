@@ -29,131 +29,149 @@ A comprehensive collection of beginner-friendly web projects built with HTML, CS
 - **WhatsApp:** +254 727 240 573
 - **TikTok:** [@makostech](https://www.tiktok.com/@makostech)
 
-## 📁 Projects Included
+## 📁 Project Categories
 
-### 1. **Basic Calculator** - Simple Arithmetic Operations
+This repository is organized into four main categories for better navigation and understanding:
+
+- **utilities/**: Core tools and utilities for everyday use
+- **games/**: Interactive games and entertainment projects
+- **forms/**: Authentication and input form implementations
+- **special/**: Unique themed projects and advanced demos
+
+## 🛠️ Projects Included
+
+### Utilities
+
+#### calculator-v1 - Basic Arithmetic Calculator
+   - Simple calculator with numbers, operators, and equals
    - HTML form-based interface
    - Core calculation logic
 
-### 2. **Calculator with Authentication** - Enhanced Features
-   - User authentication system
-   - Advanced calculator functions
+#### calculator-v2 - Advanced Calculator
+   - Includes AC (clear all), DEL (delete), % (modulo)
+   - Additional features like 00 button and decimal point
 
-### 3. **Professional Calculator** - Full-Featured Tool
-   - Login-based access
-   - Complete mathematical operations
+#### calculator-v3 - Professional Calculator
+   - Form-based with eval() calculations
+   - Branded as "MakosTech fx-20"
 
-### 4. **Calendar Application** - Interactive Date Navigator
-   - Dynamic calendar display
-   - Month/year navigation
+#### calendar - Interactive Calendar Widget
+   - Month/year navigation with prev/next buttons
+   - Clickable dates and current date display
 
-### 5. **Calendar Widget** - Alternative Implementation
-   - Calendar design variant
-   - Date selection functionality
+#### timer - Stopwatch Timer
+   - Start/stop/reset functionality
+   - Accurate timing display (HH:MM:SS.ms)
 
-### 6. **Player Card Component** - FIFA Card Design
-   - Beautiful card layout
-   - Image integration
+#### todo-list - Smart To-Do List
+   - Add and remove tasks
+   - Local storage for persistence
 
-### 7. **Holiday Greeting** - Festive Christmas Project
-   - Themed interactive interface
-   - Seasonal animations
+#### password-generator - Secure Password Generator
+   - Customizable length and character options
+   - Copy-to-clipboard feature
 
-### 8. **Data Visualization Dashboard** - Analytics Charts
-   - Visual data representation
-   - Interactive chart elements
+#### qr-code-scanner - QR Code Scanner
+   - Camera-based QR code scanning
+   - Copy scanned data functionality
 
-### 9. **Employee Database System** - CRUD Application
-   - JSON data management
-   - Add/Edit/Delete operations
+#### weather-app - Weather Explorer
+   - Real-time weather data via API
+   - City search and 4-day forecast
 
-### 10. **Professional Landing Page** - Modern Website
-    - Responsive design
-    - Marketing layout
+### Games
 
-### 11. **Transparent Sign-Up Form** - User Registration
-    - Form validation
-    - Modern styling
+#### snake-game - Classic Snake Game
+   - Full arcade game mechanics
+   - Difficulty levels and score tracking
+   - Keyboard controls
 
-### 12. **Chat Application** - Messaging Interface
-    - Real-time chat UI
-    - Dynamic conversations
+#### tic-tac-toe-v1 - Tic Tac Toe with AI
+   - VS Bot mode
+   - Turn-based gameplay with status display
 
-### 13. **Orange Theme Login** - Vibrant Authentication
-    - Color-themed design
-    - Input validation
+#### tic-tac-toe-v2 - Tic Tac Toe Game
+   - Player selection (X or O)
+   - Slider animations and replay functionality
 
-### 14. **Pagination System** - Multi-Page Navigation
-    - Page browsing controls
-    - Dynamic content loading
+#### piano - Interactive Virtual Piano
+   - 24-key keyboard simulation
+   - Volume control and key mapping
+   - Sound effects
 
-### 15. **Secure Password Generator** - Random Creator
-    - Custom generation options
-    - Copy-to-clipboard feature
+#### quiz-app - Interactive Quiz Application
+   - Timed questions with progress tracking
+   - Multiple choice with explanations
+   - Score and streak counter
 
-### 16. **Interactive Piano** - Virtual Music Keyboard
-    - Keyboard simulation
-    - Sound effects
+### Forms
 
-### 17. **QR Code Scanner** - Dynamic Generator
-    - QR code creation
-    - Data encoding
+#### signup-form-v1 - Transparent Sign-Up Form
+   - User registration with validation
+   - Social login options
+   - Modern styling
 
-### 18. **Interactive Quiz** - Knowledge Assessment
-    - Multiple choice questions
-    - Score tracking system
+#### signup-form-v2 - Orange Theme Login
+   - Color-themed authentication
+   - Username, email, password fields
 
-### 19. **Modern Sign-In Form** - Contemporary Design
-    - Advanced authentication UI
-    - Form validation
+#### signup-form-v3 - Modern Sign-Up Form
+   - Name, email, password fields
+   - Link to login page
 
-### 20. **Classic Login Page** - Traditional Authentication
-    - Standard login interface
-    - User validation
+#### signin-form - Classic Login Page
+   - Full name, email, phone, password
+   - Decorative design elements
 
-### 21. **Advanced Sign-Up System** - Dual Mode Auth
-    - Sign-up and login modes
-    - Modern styling
+#### combined-auth-form - Advanced Sign-Up System
+   - Sliding animation between login and signup
+   - Dual-mode authentication interface
 
-### 22. **Snake Game** - Classic Arcade Game
-    - Full game mechanics
-    - Score system
-    - Keyboard controls
+### Special Projects
 
-### 23. **Testimonials Carousel** - Client Reviews
-    - Dynamic testimonial display
-    - Carousel navigation
+#### fifa-player-card - FIFA Player Card Component
+   - Beautiful card layout for soccer players
+   - Skills, attributes, and image integration
 
-### 24. **Tic Tac Toe Game** - Strategy Game
-    - Two-player gameplay
-    - Win detection logic
+#### christmas-animation - Holiday Christmas Greeting
+   - Festive themed interface
+   - Animated glow effects
 
-### 25. **Tic Tac Toe with AI** - Intelligent Opponent
-    - AI-powered gameplay
-    - Multiple game modes
+#### data-dashboard - Data Visualization Dashboard
+   - Environmental analytics with charts
+   - Bar, line, and pie chart integration
 
-### 26. **Stopwatch Timer** - Time Tracking
-    - Accurate timing system
-    - Control buttons
+#### employee-database - Employee Database System
+   - CRUD operations for employee management
+   - Search, sort, and statistics
 
-### 27. **Smart To-Do List** - Task Management
-    - Add/Remove functionality
-    - Local persistence
+#### landing-page - Professional Landing Page
+   - Tech learning site with responsive design
+   - Navigation and animated sections
 
-### 28. **Valentine's Day Card** - Romantic Greeting
-    - Themed animations
-    - Interactive effects
+#### pagination-demo - Pagination System
+   - Multi-page navigation for services
+   - Dynamic content loading
 
-### 29. **Weather Explorer** - Real-Time Information
-    - Live weather API
-    - City search functionality
+#### fees-system - Student Fees Management
+   - Balance tracking and transaction history
+   - Invoice generation and downloads
+
+#### testimonials-section - Testimonials Carousel
+   - Client review display
+   - Rating system and navigation
+
+#### valentines-card - Valentine's Day Card
+   - Romantic themed animations
+   - Interactive effects and countdown
 
 ## 🚀 Getting Started
 
 1. Clone this repository
-2. Navigate to any project folder
-3. Open the `index.html` or `login.html` file in your browser
-4. Explore the code to learn web development concepts
+2. Navigate to a category folder (utilities/, games/, forms/, or special/)
+3. Enter any project subfolder
+4. Open the `index.html` or relevant HTML file in your browser
+5. Explore the code to learn web development concepts
 
 ## 💻 How to Use
 
