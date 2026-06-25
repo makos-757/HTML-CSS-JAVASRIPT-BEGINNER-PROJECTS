@@ -8,12 +8,11 @@ A comprehensive collection of beginner-friendly web projects built with HTML, CS
 **Author:** Samuel Makokha  
 **Purpose:** Educational - Sharing beginner web development projects with the community
 
-**Have Questions?** → [Get In Touch](CONTACT.md) | 📧 makostechy@gmail.com | � +254 727 240 573 (WhatsApp)
+**Have Questions?** → [Get In Touch](CONTACT.md) | 📧 makostechy@gmail.com | 📞 +254 727 240 573 (WhatsApp)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
+## 🌐 Visit My Website
+
+For more projects and resources, visit **[makostech.me](https://makostech.me)** — your hub for web development tutorials, tools, and premium projects!
 
 ## 📖 Important Files
 
@@ -25,6 +24,7 @@ A comprehensive collection of beginner-friendly web projects built with HTML, CS
 
 ## 🌐 Connect With Me
 
+- **Website:** [makostech.me](https://makostech.me)
 - **Email:** makostechy@gmail.com
 - **WhatsApp:** +254 727 240 573
 - **TikTok:** [@makostech](https://www.tiktok.com/@makostech)
@@ -190,6 +190,10 @@ These projects are made publicly available for educational purposes.
 
 **Samuel Makokha**  
 Makos Tech
+
+---
+
+**🚀 Want more projects?** Head over to **[makostech.me](https://makostech.me)** for advanced tutorials, premium projects, and the latest web development resources!
 
 ---
 
